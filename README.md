@@ -8,8 +8,8 @@ Usage
 Create a config/keys_dev.js file and add....
 
 module.exports = {
-  stripePublishableKey:pk_test_KrTyhEsuLOmcq6QBwlTb3ycn00JC3WiGIf,
-  stripeSecretKey:sk_test_QslReZZbsRoRwSBlr8vJ0E3900FNi4nIJp
+  stripePublishableKey:'_YOUR_OWN_PUBLISHABLE_KEY_',
+  stripeSecretKey:_YOUR_OWN_SECRET_KEY_'
 }
 
 Installation
